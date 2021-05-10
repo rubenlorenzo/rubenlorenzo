@@ -11,13 +11,11 @@
 Continually improve and acquire new knowledge and apply it. I like to develop in an intuitive and orderly way. Passionate about open technologies. 
 + Code: Javascript, HTML5, CSS3, Python, Java.
 + Tools: React, Redux, Hooks, Node, Validator.js, Bootstrap, Flask.
-</br>
-</br>
 + Portfolio projects:
-  +  [dynamic-showcase](https://github.com/rubenlorenzo/Dynamic-showcase)
-  +  [kanban-project](https://github.com/rubenlorenzo/kanban-project)
-  +  [moviedb-react](https://github.com/rubenlorenzo/moviedb-react)
-  +  [live-music.](https://github.com/rubenlorenzo/live-music)
+  + [dynamic-showcase](https://github.com/rubenlorenzo/Dynamic-showcase/)
+  + [kanban-project](https://github.com/rubenlorenzo/kanban-project/)
+  + [moviedb-react](https://github.com/rubenlorenzo/moviedb-react/)
+  + [live-music](https://github.com/rubenlorenzo/live-music/)
 
 ---
 
