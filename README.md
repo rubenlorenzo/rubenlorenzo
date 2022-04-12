@@ -1,6 +1,6 @@
 ## Hi, I'm Rubén Lorenzo, FrontEnd Developer!
 
-[![Linkedin: rubenlorenzo](https://img.shields.io/badge/-rubenlorenzo-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ruben-lorenzo-2902a/)](https://www.linkedin.com/in/ruben-lorenzo-2902a/)
+[![Linkedin: rubenlorenzo](https://img.shields.io/badge/-rubenlorenzo-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ruben-lorenzo-dev/)](https://www.linkedin.com/in/ruben-lorenzo-dev/)
 
 ### My studies:
 + **Web applications development** and **Multi-platform applications development**, in [Instute Ausiàs March](http://www.iam.cat)</br>
